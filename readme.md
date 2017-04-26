@@ -7,3 +7,24 @@
  - Run :  `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview`  
+<br/><br/>
+<br/><br/>
+<br/><br/>
+![pic1](https://raw.githubusercontent.com/getwebem/README/master/edxHosting/Screen%20Shot%202017-04-26%20at%2014.26.39.png)
+<br/><br/>
+
+<br/><br/>
+![pic2](https://raw.githubusercontent.com/getwebem/README/master/edxHosting/Screen%20Shot%202017-04-26%20at%2014.26.47.png)
+<br/><br/>
+
+<br/><br/>
+![pic3](https://raw.githubusercontent.com/getwebem/README/master/edxHosting/Screen%20Shot%202017-04-26%20at%2014.28.08.png)
+<br/><br/>
+
+<br/><br/>
+![pic4](https://raw.githubusercontent.com/getwebem/README/master/edxHosting/Screen%20Shot%202017-04-26%20at%2014.28.41.png)
+<br/><br/>
+
+<br/><br/>
+![pic5](https://raw.githubusercontent.com/getwebem/README/master/edxHosting/Screen%20Shot%202017-04-26%20at%2014.28.57.png)
+<br/><br/>
