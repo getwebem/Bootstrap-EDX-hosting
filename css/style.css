@@ -1,10 +1,19 @@
 body {
-  
+color:#fff;
+font-size:16px;
 }
 /*
 *NAV SECTION
 */
-section{ margin: 30px 0 200px 0;}
+section{ margin: 30px 0 100px 0;
+}
+.jumbotron{
+    background: #bf5a16;
+    margin-bottom: 100px;
+}
+.well{
+    overflow: auto;
+}
 .carousel{
 min-height:500px;
 margin-bottom:60px;
